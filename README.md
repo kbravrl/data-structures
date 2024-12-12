@@ -1,10 +1,10 @@
-# data-structures
+# veri yapıları
 
-This folder contains various data structures implemented in both Java and Python. These data structures are based on problems solved from the LeetCode platform. Each data structure is presented with its corresponding implementation examples.
+Bu klasör hem Java hem de Python'da uygulanan çeşitli veri yapılarını içermektedir. Bu veri yapıları LeetCode platformunda çözülen sorunlara dayanmakta ve her veri yapısı karşılık gelen uygulama örnekleriyle birlikte sunulmuştur.
 
-## Contents
+## İçerikler
 
-Files and their contents found in this folder:
+Bu klasörde bulunan dosyalar ve içerikleri:
 
-- **Java**: Data structures implemented in Java.
-- **Python**: Data structures implemented in Python, including solutions for LeetCode problems.
+- **Java**: Java'da uygulanan veri yapıları.
+- **Python**: LeetCode sorunlarına yönelik çözümler de dahil olmak üzere Python'da uygulanan veri yapıları.
